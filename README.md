@@ -1,7 +1,6 @@
 # Color_ConsoleLog
 
-SANE				= "\u001B[0m";
-
+SANE				= "\u001B[0m".
 
 
 HIGH_INTENSITY		= "\u001B[1m";
