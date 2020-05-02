@@ -3,6 +3,7 @@
 SANE				= "\u001B[0m";
 
 
+
 HIGH_INTENSITY		= "\u001B[1m";
 
 LOW_INTENSITY		= "\u001B[2m";
