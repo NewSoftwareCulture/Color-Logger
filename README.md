@@ -2,7 +2,7 @@
 
 https://www.npmjs.com/package/chalk
 
-# Color_ConsoleLog
+# Colors
 
 - SANE				= "\u001B[0m";
 
